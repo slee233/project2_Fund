@@ -44,3 +44,17 @@ table {
 .font2{
 	font-family: 'Cinzel', serif;
 }
+nav{
+	text-align: center;
+	background-color: #000;
+	margin: 0 auto;
+}
+span{
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	padding: 10px 50px;
+}
+a{
+	color: white;
+}
