@@ -12,3 +12,20 @@ h3{
 h2, p{
 	font-family: 'Crimson Text', serif;
 }
+nav{
+	text-align: center;
+	background-color: #000;
+	margin: 0 auto;
+}
+span{
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	padding: 10px 50px;
+}
+a{
+	color: white;
+}
+body{
+	margin: 0 auto;
+}
